@@ -1,0 +1,7 @@
+[
+    { "id": 1,"name": "BMW","country": "Duitsland"},
+    { "id": 2,"name": "Mercedes-Benz","country": "Duitsland"},
+    { "id": 3,"name": "Porsche","country": "Duitsland"},
+    { "id": 4,"name": "Lamborghini","country": "Italië"},
+    { "id": 5,"name": "Rolls-Royce","country": "Verenigd Koninkrijk"}  
+]

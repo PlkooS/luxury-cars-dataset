@@ -1,0 +1,182 @@
+[
+    {
+         "id": 1,
+        "model": "i7 M70 xDrive",
+        "description": "Deze elektrische BMW i7 combineert het comfort van een grote luxelimousine met een sportieve uitstraling. De ruime achterbank, het panoramadak en het scherm voor passagiers maken lange ritten bijzonder aangenaam.",
+        "year": 2025,
+        "price": 179000,
+        "mileageKm": 1800,
+        "electric": true,
+        "bodyType": "limousine",
+        "addedOn": "2026-09-01",
+        "features": ["executive lounge", "panoramadak", "achterbankscherm"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/bmw-i7-m70.jpg",
+        "brand": {
+            "id": 1,
+            "name": "BMW",
+            "country": "Duitsland"
+        }
+    },
+    {
+        "id": 2,
+        "model": "X5 M Competition",
+        "description": "Deze BMW X5 M Competition is een krachtige SUV met vijf deuren en veel ruimte voor passagiers en bagage. De sportstoelen en het uitgebreide audiosysteem combineren dagelijks gebruiksgemak met een sportief karakter.",
+        "year": 2025,
+        "price": 159000,
+        "mileageKm": 2800,
+        "electric": false,
+        "bodyType": "SUV",
+        "addedOn": "2026-09-02",
+        "features": ["vijf deuren", "sportstoelen", "premium audio"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/bmw-x5-m-competition.jpg",
+        "brand": {
+            "id": 1,
+            "name": "BMW",
+            "country": "Duitsland"
+        }
+    },
+    {
+        "id": 3,
+        "model": "Mercedes-Maybach S 680 4MATIC",
+        "description": "Deze Mercedes-Maybach S 680 is ingericht voor wie ontspannen en in alle comfort wil reizen. De luxueuze achterbank, het audiosysteem en de kleine koelkast maken vooral de rit voor passagiers achterin bijzonder.",
+        "year": 2025,
+        "price": 289000,
+        "mileageKm": 900,
+        "electric": false,
+        "bodyType": "limousine",
+        "addedOn": "2026-09-03",
+        "features": ["achterbankmassage", "koelkast", "premium audio"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/maybach-s680.jpg",
+        "brand": {
+            "id": 2,
+            "name": "Mercedes-Benz",
+            "country": "Duitsland"
+        }
+    },
+    {
+        "id": 4,
+        "model": "Urus SE",
+        "description": "Deze Lamborghini Urus SE biedt het opvallende uiterlijk van een sportwagen in de vorm van een ruime SUV. Het panoramadak, de sportstoelen en de vierwielaandrijving maken hem geschikt voor uiteenlopende ritten.",
+        "year": 2025,
+        "price": 299000,
+        "mileageKm": 1900,
+        "electric": false,
+        "bodyType": "SUV",
+        "addedOn": "2026-09-04",
+        "features": ["panoramadak", "sportstoelen", "vierwielaandrijving"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/lamborghini-urus-se.jpg",
+        "brand": {
+            "id": 4,
+            "name": "Lamborghini",
+            "country": "Italië"
+        }
+    },
+    {
+        "id": 5,
+        "model": "911 GT3 RS",
+        "description": "Deze Porsche 911 GT3 RS is bedoeld voor liefhebbers van een uitgesproken sportieve rijervaring. De grote achtervleugel, kuipstoelen en carbon details geven de auto een uiterlijk dat meteen opvalt.",
+        "year": 2024,
+        "price": 319000,
+        "mileageKm": 2400,
+        "electric": false,
+        "bodyType": "coupé",
+        "addedOn": "2026-09-05",
+        "features": ["achtervleugel", "kuipstoelen", "carbon details"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/porsche-911-gt3-rs.jpg",
+        "brand": {
+            "id": 3,
+            "name": "Porsche",
+            "country": "Duitsland"
+        }
+    },
+    {
+        "id": 6,
+        "model": "Ghost",
+        "description": "Deze Rolls-Royce Ghost richt zich op stilte, ruimte en een ontspannen reiservaring. Het lederen interieur, de comfortabele achterbank en de sterrenhemel geven de limousine een uitgesproken luxueuze sfeer.",
+        "year": 2025,
+        "price": 389000,
+        "mileageKm": 1100,
+        "electric": false,
+        "bodyType": "limousine",
+        "addedOn": "2026-09-06",
+        "features": ["sterrenhemel", "achterbankmassage", "lederen interieur"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/rolls-royce-ghost.jpg",
+        "brand": {
+            "id": 5,
+            "name": "Rolls-Royce",
+            "country": "Verenigd Koninkrijk"
+        }
+    },
+    {
+        "id": 7,
+        "model": "BRABUS 800 SUPERBLACK (G 63)",
+        "description": "Deze BRABUS-uitvoering van de Mercedes-AMG G 63 combineert de herkenbare vorm van de G-Klasse met een opvallend donkere afwerking. De carbon onderdelen, het lederen interieur en de sportuitlaat versterken zijn bijzondere karakter.",
+        "year": 2025,
+        "price": 489000,
+        "mileageKm": 850,
+        "electric": false,
+        "bodyType": "SUV",
+        "addedOn": "2026-09-07",
+        "features": ["carbon bodykit", "lederen interieur", "sportuitlaat"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/brabus-800-superblack.jpg",
+        "brand": {
+            "id": 2,
+            "name": "Mercedes-Benz",
+            "country": "Duitsland"
+        }
+    },
+    {
+        "id": 8,
+        "model": "Revuelto",
+        "description": "Deze Lamborghini Revuelto is een opvallende supercar met scherpe lijnen en een bijzonder laag koetswerk. Het sportieve interieur, de carbon afwerking en de kuipvormige stoelen passen bij zijn spectaculaire uitstraling.",
+        "year": 2025,
+        "price": 589000,
+        "mileageKm": 700,
+        "electric": false,
+        "bodyType": "supercar",
+        "addedOn": "2026-09-08",
+        "features": ["carbon interieur", "lift-systeem", "sportstoelen"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/lamborghini-revuelto.jpg",
+        "brand": {
+            "id": 4,
+            "name": "Lamborghini",
+            "country": "Italië"
+        }
+    },
+    {
+         "id": 9,
+        "model": "Taycan Turbo S",
+        "description": "Deze volledig elektrische Porsche Taycan Turbo S combineert een gestroomlijnde vorm met het comfort van een ruime sedan. Snelladen, luchtvering en een panoramadak maken hem geschikt voor zowel korte als lange ritten.",
+        "year": 2025,
+        "price": 189000,
+        "mileageKm": 3400,
+        "electric": true,
+        "bodyType": "sedan",
+        "addedOn": "2026-09-09",
+        "features": ["snelladen", "luchtvering", "panoramadak"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/porsche-taycan-turbo-s.jpg",
+        "brand": {
+            "id": 3,
+            "name": "Porsche",
+            "country": "Duitsland"
+        }
+    },
+    {
+        "id": 10,
+        "model": "Spectre",
+        "description": "Deze volledig elektrische Rolls-Royce Spectre is een grote luxecoupé met een rustige en comfortabele rijervaring. Het bijzondere interieur, het uitgebreide audiosysteem en de sterrenhemel maken elke rit speciaal.",
+        "year": 2025,
+        "price": 459000,
+        "mileageKm": 2300,
+        "electric": true,
+        "bodyType": "coupé",
+        "addedOn": "2026-09-10",
+        "features": ["sterrenhemel", "premium audio", "snelladen"],
+        "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/rolls-royce-spectre.jpg",
+         "brand": {
+            "id": 5,
+            "name": "Rolls-Royce",
+            "country": "Verenigd Koninkrijk"
+        }
+    }
+]
