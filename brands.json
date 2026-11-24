@@ -1,7 +1,47 @@
 [
-    { "id": 1,"name": "BMW","country": "Duitsland"},
-    { "id": 2,"name": "Mercedes-Benz","country": "Duitsland"},
-    { "id": 3,"name": "Porsche","country": "Duitsland"},
-    { "id": 4,"name": "Lamborghini","country": "Italië"},
-    { "id": 5,"name": "Rolls-Royce","country": "Verenigd Koninkrijk"}  
+    {
+        "id": 1,
+        "name": "BMW",
+        "country": "Duitsland",
+        "foundedYear": 1916,
+        "founder": "Karl Rapp",
+        "headquarters": "München",
+        "parentCompany": "BMW Group"
+    },
+    {
+        "id": 2,
+        "name": "Mercedes-Benz",
+        "country": "Duitsland",
+        "foundedYear": 1926,
+        "founder": "Karl Benz en Gottlieb Daimler",
+        "headquarters": "Stuttgart",
+        "parentCompany": "Mercedes-Benz Group"
+    },
+    {
+        "id": 3,
+        "name": "Porsche",
+        "country": "Duitsland",
+        "foundedYear": 1931,
+        "founder": "Ferdinand Porsche",
+        "headquarters": "Stuttgart",
+        "parentCompany": "Volkswagen Group"
+    },
+    {
+        "id": 4,
+        "name": "Lamborghini",
+        "country": "Italië",
+        "foundedYear": 1963,
+        "founder": "Ferruccio Lamborghini",
+        "headquarters": "Sant'Agata Bolognese",
+        "parentCompany": "Volkswagen Group"
+    },
+    {
+        "id": 5,
+        "name": "Rolls-Royce",
+        "country": "Verenigd Koninkrijk",
+        "foundedYear": 1906,
+        "founder": "Charles Rolls en Henry Royce",
+        "headquarters": "Goodwood",
+        "parentCompany": "BMW Group"
+    }
 ]
