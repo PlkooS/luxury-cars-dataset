@@ -1,6 +1,6 @@
 [
     {
-         "id": 1,
+        "id": 1,
         "model": "i7 M70 xDrive",
         "description": "Deze elektrische BMW i7 combineert het comfort van een grote luxelimousine met een sportieve uitstraling. De ruime achterbank, het panoramadak en het scherm voor passagiers maken lange ritten bijzonder aangenaam.",
         "year": 2025,
@@ -9,12 +9,20 @@
         "electric": true,
         "bodyType": "limousine",
         "addedOn": "2026-09-01",
-        "features": ["executive lounge", "panoramadak", "achterbankscherm"],
+        "features": [
+            "executive lounge",
+            "panoramadak",
+            "achterbankscherm"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/bmw-i7-m70.jpg",
         "brand": {
             "id": 1,
             "name": "BMW",
-            "country": "Duitsland"
+            "country": "Duitsland",
+            "foundedYear": 1916,
+            "founder": "Karl Rapp",
+            "headquarters": "München",
+            "parentCompany": "BMW Group"
         }
     },
     {
@@ -27,12 +35,20 @@
         "electric": false,
         "bodyType": "SUV",
         "addedOn": "2026-09-02",
-        "features": ["vijf deuren", "sportstoelen", "premium audio"],
+        "features": [
+            "vijf deuren",
+            "sportstoelen",
+            "premium audio"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/bmw-x5-m-competition.jpg",
         "brand": {
             "id": 1,
             "name": "BMW",
-            "country": "Duitsland"
+            "country": "Duitsland",
+            "foundedYear": 1916,
+            "founder": "Karl Rapp",
+            "headquarters": "München",
+            "parentCompany": "BMW Group"
         }
     },
     {
@@ -45,12 +61,20 @@
         "electric": false,
         "bodyType": "limousine",
         "addedOn": "2026-09-03",
-        "features": ["achterbankmassage", "koelkast", "premium audio"],
+        "features": [
+            "achterbankmassage",
+            "koelkast",
+            "premium audio"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/maybach-s680.jpg",
         "brand": {
             "id": 2,
             "name": "Mercedes-Benz",
-            "country": "Duitsland"
+            "country": "Duitsland",
+            "foundedYear": 1926,
+            "founder": "Karl Benz en Gottlieb Daimler",
+            "headquarters": "Stuttgart",
+            "parentCompany": "Mercedes-Benz Group"
         }
     },
     {
@@ -63,12 +87,20 @@
         "electric": false,
         "bodyType": "SUV",
         "addedOn": "2026-09-04",
-        "features": ["panoramadak", "sportstoelen", "vierwielaandrijving"],
+        "features": [
+            "panoramadak",
+            "sportstoelen",
+            "vierwielaandrijving"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/lamborghini-urus-se.jpg",
         "brand": {
             "id": 4,
             "name": "Lamborghini",
-            "country": "Italië"
+            "country": "Italië",
+            "foundedYear": 1963,
+            "founder": "Ferruccio Lamborghini",
+            "headquarters": "Sant'Agata Bolognese",
+            "parentCompany": "Volkswagen Group"
         }
     },
     {
@@ -81,12 +113,20 @@
         "electric": false,
         "bodyType": "coupé",
         "addedOn": "2026-09-05",
-        "features": ["achtervleugel", "kuipstoelen", "carbon details"],
+        "features": [
+            "achtervleugel",
+            "kuipstoelen",
+            "carbon details"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/porsche-911-gt3-rs.jpg",
         "brand": {
             "id": 3,
             "name": "Porsche",
-            "country": "Duitsland"
+            "country": "Duitsland",
+            "foundedYear": 1931,
+            "founder": "Ferdinand Porsche",
+            "headquarters": "Stuttgart",
+            "parentCompany": "Volkswagen Group"
         }
     },
     {
@@ -99,12 +139,20 @@
         "electric": false,
         "bodyType": "limousine",
         "addedOn": "2026-09-06",
-        "features": ["sterrenhemel", "achterbankmassage", "lederen interieur"],
+        "features": [
+            "sterrenhemel",
+            "achterbankmassage",
+            "lederen interieur"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/rolls-royce-ghost.jpg",
         "brand": {
             "id": 5,
             "name": "Rolls-Royce",
-            "country": "Verenigd Koninkrijk"
+            "country": "Verenigd Koninkrijk",
+            "foundedYear": 1906,
+            "founder": "Charles Rolls en Henry Royce",
+            "headquarters": "Goodwood",
+            "parentCompany": "BMW Group"
         }
     },
     {
@@ -117,12 +165,20 @@
         "electric": false,
         "bodyType": "SUV",
         "addedOn": "2026-09-07",
-        "features": ["carbon bodykit", "lederen interieur", "sportuitlaat"],
+        "features": [
+            "carbon bodykit",
+            "lederen interieur",
+            "sportuitlaat"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/brabus-800-superblack.jpg",
         "brand": {
             "id": 2,
             "name": "Mercedes-Benz",
-            "country": "Duitsland"
+            "country": "Duitsland",
+            "foundedYear": 1926,
+            "founder": "Karl Benz en Gottlieb Daimler",
+            "headquarters": "Stuttgart",
+            "parentCompany": "Mercedes-Benz Group"
         }
     },
     {
@@ -135,16 +191,24 @@
         "electric": false,
         "bodyType": "supercar",
         "addedOn": "2026-09-08",
-        "features": ["carbon interieur", "lift-systeem", "sportstoelen"],
+        "features": [
+            "carbon interieur",
+            "lift-systeem",
+            "sportstoelen"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/lamborghini-revuelto.jpg",
         "brand": {
             "id": 4,
             "name": "Lamborghini",
-            "country": "Italië"
+            "country": "Italië",
+            "foundedYear": 1963,
+            "founder": "Ferruccio Lamborghini",
+            "headquarters": "Sant'Agata Bolognese",
+            "parentCompany": "Volkswagen Group"
         }
     },
     {
-         "id": 9,
+        "id": 9,
         "model": "Taycan Turbo S",
         "description": "Deze volledig elektrische Porsche Taycan Turbo S combineert een gestroomlijnde vorm met het comfort van een ruime sedan. Snelladen, luchtvering en een panoramadak maken hem geschikt voor zowel korte als lange ritten.",
         "year": 2025,
@@ -153,12 +217,20 @@
         "electric": true,
         "bodyType": "sedan",
         "addedOn": "2026-09-09",
-        "features": ["snelladen", "luchtvering", "panoramadak"],
+        "features": [
+            "snelladen",
+            "luchtvering",
+            "panoramadak"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/porsche-taycan-turbo-s.jpg",
         "brand": {
             "id": 3,
             "name": "Porsche",
-            "country": "Duitsland"
+            "country": "Duitsland",
+            "foundedYear": 1931,
+            "founder": "Ferdinand Porsche",
+            "headquarters": "Stuttgart",
+            "parentCompany": "Volkswagen Group"
         }
     },
     {
@@ -171,12 +243,20 @@
         "electric": true,
         "bodyType": "coupé",
         "addedOn": "2026-09-10",
-        "features": ["sterrenhemel", "premium audio", "snelladen"],
+        "features": [
+            "sterrenhemel",
+            "premium audio",
+            "snelladen"
+        ],
         "image": "https://raw.githubusercontent.com/PlkooS/luxury-cars-dataset/main/images/rolls-royce-spectre.jpg",
-         "brand": {
+        "brand": {
             "id": 5,
             "name": "Rolls-Royce",
-            "country": "Verenigd Koninkrijk"
+            "country": "Verenigd Koninkrijk",
+            "foundedYear": 1906,
+            "founder": "Charles Rolls en Henry Royce",
+            "headquarters": "Goodwood",
+            "parentCompany": "BMW Group"
         }
     }
 ]
